@@ -1,0 +1,20 @@
+# RNA-seq Pipeline Requirements
+# Python packages needed for RNA-seq analysis
+
+# Quality control and processing
+multiqc>=1.14
+fastqc-tools>=0.8
+cutadapt>=4.0
+
+# Analysis and visualization
+biopython>=1.81
+pandas>=2.0.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+numpy>=1.24.0
+
+# System requirements (install separately):
+# - Java Runtime Environment (JRE) 11 or higher
+# - STAR aligner 2.7.10b or higher
+# - Trimmomatic 0.39 or higher
+# - Picard Tools 2.27.5 or higher
