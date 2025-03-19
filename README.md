@@ -18,7 +18,7 @@ This pipeline automates the following steps:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/rnaseq-pipeline.git
+git clone https://github.com/IkramInf/rnaseq-pipeline.git
 cd rnaseq-pipeline
 ```
 
